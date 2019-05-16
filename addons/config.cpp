@@ -76,5 +76,29 @@ class CfgMusic
 		sound[] = {"addons\the-descent-by-kevin-macleod.ogg",1,1};
 		duration=191;
 		musicClass = "MyMusicClass1";
+	};	
+	
+	class gate
+	{
+		name = "Gate Theme Song";
+		sound[] = {"addons\gate.ogg",1,1};
+		duration=191;
+		musicClass = "MyMusicClass1";
+	};	
+	
+	class punch
+	{
+		name = "One Punch Man Intro";
+		sound[] = {"addons\one punch man.ogg",1,1};
+		duration=191;
+		musicClass = "MyMusicClass1";
+	};	
+	
+	class advance
+	{
+		name = "Advance Australia";
+		sound[] = {"addons\advance australia.ogg",1,1};
+		duration=191;
+		musicClass = "MyMusicClass1";
 	};
 };
