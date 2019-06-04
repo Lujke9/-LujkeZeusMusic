@@ -22,6 +22,14 @@ class CfgMusicClasses
 
 class CfgMusic
 {
+//	class 
+//	{
+//		name = "";
+//		sound[] = {"addons\.ogg",1,1};
+//		duration=;
+//		musicClass = "MyMusicClass1";
+//	};	
+	
 	class weAreOverwatch
 	{
 		name = "We Are Overwatch";
@@ -99,6 +107,14 @@ class CfgMusic
 		name = "Advance Australia";
 		sound[] = {"addons\advance australia.ogg",1,1};
 		duration=191;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class Aidan
+	{
+		name = "Light of Aidan";
+		sound[] = {"addons\Light of Aidan.ogg",1,1};
+		duration=184;
 		musicClass = "MyMusicClass1";
 	};
 };
