@@ -16,7 +16,7 @@ class CfgMusicClasses
 {
 	class MyMusicClass1
 	{
-		displayName = "Lujke's Custom Music";
+		displayName = "SFP Music";
 	};
 };
 
@@ -184,7 +184,7 @@ class CfgMusic
 		musicClass = "MyMusicClass1";
 	};
 		
-	class 
+	class machine
 	{
 		name = "Machines and Might";
 		sound[] = {"addons\Machines and Might - Halo legends.ogg",1,1};
@@ -208,7 +208,7 @@ class CfgMusic
 		musicClass = "MyMusicClass1";
 	};
 	
-	class Peril
+	class peril
 	{
 		name = "Peril";
 		sound[] = {"addons\Peril - Halo 2.ogg",1,1};
