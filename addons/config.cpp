@@ -283,7 +283,7 @@ class CfgMusic
 	class zero
 	{
 		name = "Zero";
-		sound[] = {"Zero - ACE combat.ogg",1,1};
+		sound[] = {"\addons\Zero - ACE combat.ogg",1,1};
 		duration=295;
 		musicClass = "MyMusicClass1";
 	};
