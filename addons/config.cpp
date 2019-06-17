@@ -92,11 +92,7 @@ class CfgMusic
 	class gate
 	{
 		name = "Gate Theme Song";
-<<<<<<< HEAD
-		sound[] = {"gate.ogg",1,1};
-=======
 		sound[] = {"\addons\music\gate.ogg",1,1};
->>>>>>> parent of f712df6... restructure
 		duration=191;
 		musicClass = "MyMusicClass1";
 	};	
@@ -124,7 +120,7 @@ class CfgMusic
 		duration=184;
 		musicClass = "MyMusicClass1";
 	};
-/*	
+	
 	class arrival
 	{
 		name = "Arrival";
@@ -288,13 +284,8 @@ class CfgMusic
 	class zero
 	{
 		name = "Zero";
-<<<<<<< HEAD
-		sound[] = {"\addons\Zero - ACE combat.ogg",1,1};
-=======
 		sound[] = {"\addons\music\Zero - ACE combat.ogg",1,1};
->>>>>>> parent of f712df6... restructure
 		duration=295;
 		musicClass = "MyMusicClass1";
 	};
-*/
 };
