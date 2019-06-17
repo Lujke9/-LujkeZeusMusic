@@ -92,7 +92,7 @@ class CfgMusic
 	class gate
 	{
 		name = "Gate Theme Song";
-		sound[] = {"\addons\gate.ogg",1,1};
+		sound[] = {"gate.ogg",1,1};
 		duration=191;
 		musicClass = "MyMusicClass1";
 	};	
