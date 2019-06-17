@@ -22,7 +22,7 @@ class CfgMusicClasses
 
 class CfgMusic
 {
-<<<<<<< HEAD
+	
 /*
 	class 
 	{
@@ -32,15 +32,6 @@ class CfgMusic
 		musicClass = "MyMusicClass1";
 	};	
 */
-=======
-//	class 
-//	{
-//		name = "";
-//		sound[] = {"addons\.ogg",1,1};
-//		duration=;
-//		musicClass = "MyMusicClass1";
-//	};	
->>>>>>> parent of e69c4ca... Added/converted songs
 	
 	class weAreOverwatch
 	{
@@ -129,8 +120,7 @@ class CfgMusic
 		duration=184;
 		musicClass = "MyMusicClass1";
 	};
-<<<<<<< HEAD
-	
+/*	
 	class arrival
 	{
 		name = "Arrival";
@@ -298,7 +288,5 @@ class CfgMusic
 		duration=295;
 		musicClass = "MyMusicClass1";
 	};
-		
-=======
->>>>>>> parent of e69c4ca... Added/converted songs
+*/
 };
