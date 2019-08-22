@@ -288,4 +288,36 @@ class CfgMusic
 		duration=295;
 		musicClass = "MyMusicClass1";
 	};
+
+	class solomon
+	{
+		name = "BF3 - Solomon's Theme";
+		sound[] = {"\addons\music\BF3 - Solomon's Theme.ogg",1,1};
+		duration=172;
+		musicClass = "MyMusicClass1";
+	};
+
+	class paleHorse
+	{
+		name = "Halo - On a Pale Horse";
+		sound[] = {"\addons\music\Halo - On a Pale Horse.ogg",1,1};
+		duration=95;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class impend
+	{
+		name = "Halo 2 - Impend";
+		sound[] = {"\addons\music\Halo 2 - Impend.ogg",1,1};
+		duration=141;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class WTMain
+	{
+		name = "War Thunder - Main Theme";
+		sound[] = {"\addons\music\War Thunder - Main Theme.ogg",1,1};
+		duration=181;
+		musicClass = "MyMusicClass1";
+	};
 };
