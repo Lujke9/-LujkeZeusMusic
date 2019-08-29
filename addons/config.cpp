@@ -320,4 +320,44 @@ class CfgMusic
 		duration=181;
 		musicClass = "MyMusicClass1";
 	};
+	
+	class epilogue
+	{
+		name = "Epilogue";
+		sound[] = {"\addons\music\Epilogue.ogg",1,1};
+		duration=229;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class hereticHero
+	{
+		name = "Heretic, Hero";
+		sound[] = {"\addons\music\Halo 2 Soundtrack - Heretic, Hero.ogg",1,1};
+		duration=154;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class lastSpartan
+	{
+		name = "The Last Spartan";
+		sound[] = {"\addons\music\Halo 2 The Last Spartan.ogg",1,1};
+		duration=138;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class endingTribute
+	{
+		name = "Ending (Tribute)";
+		sound[] = {"\addons\music\Halo 3 - Ending (Tribute).ogg",1,1};
+		duration=172;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class openSuite
+	{
+		name = "Opening Suite";
+		sound[] = {"\addons\music\Opening Suite.ogg",1,1};
+		duration=58;
+		musicClass = "MyMusicClass1";
+	};
 };
