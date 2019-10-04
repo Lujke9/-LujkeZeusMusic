@@ -360,4 +360,36 @@ class CfgMusic
 		duration=58;
 		musicClass = "MyMusicClass1";
 	};
+	
+	class ghostDiv
+	{
+		name = "Ghost Division";
+		sound[] = {"\addons\music\Ghost Division.ogg",1,1};
+		duration=235;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class madrigal
+	{
+		name = "The siege of Madrigal";
+		sound[] = {"\addons\music\The siege of Madrigal.ogg",1,1};
+		duration=64;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class themeMashup
+	{
+		name = "Ultimate Theme Mashup";
+		sound[] = {"\addons\music\Ultimate Theme Mashup.ogg",1,1};
+		duration=421;
+		musicClass = "MyMusicClass1";
+	};
+	
+	class underNight
+	{
+		name = "Under Cover Of Night";
+		sound[] = {"\addons\music\Under Cover Of Night.ogg",1,1};
+		duration=221;
+		musicClass = "MyMusicClass1";
+	};
 };
