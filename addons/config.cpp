@@ -464,4 +464,36 @@ class CfgMusic
 		duration = 74;
 		musicClass = "MyMusicClass1";
 	};
+
+	class n7mainTheme
+	{
+		name = "ME3 - Main Theme";
+		sound[] = {"\addons\music\ME3 Main Theme",1,1};
+		duration = 122;
+		musicClass = "MyMusicClass1";
+	};
+
+	class n7rannoch
+	{
+		name = "ME3 - Rannoch";
+		sound[] = {"\addons\music\ME3 Rannoch.ogg",1,1};
+		duration = 185;
+		musicClass = "MyMusicClass1";
+	};
+
+	class WoWfight
+	{
+		name = "WoW - We Shall Fight";
+		sound[] = {"\addons\music\WoW - We Shall Fight.ogg",1,1};
+		duration = 116;
+		musicClass = "MyMusicClass1";
+	};
+
+	class reaper
+	{
+		name = "ME3 - Reaper";
+		sound[] = {"\addons\music\Reaper_soundeffect.ogg",1,1};
+		duration = 13;
+		musicClass = "MyMusicClass1";
+	};
 };
