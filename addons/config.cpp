@@ -468,7 +468,7 @@ class CfgMusic
 	class n7mainTheme
 	{
 		name = "ME3 - Main Theme";
-		sound[] = {"\addons\music\ME3 Main Theme",1,1};
+		sound[] = {"\addons\music\ME3 Main Theme.ogg",1,1};
 		duration = 122;
 		musicClass = "MyMusicClass1";
 	};
