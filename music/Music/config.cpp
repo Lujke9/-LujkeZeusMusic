@@ -80,7 +80,7 @@ class CfgMusic
 
     class knowMyLegend
     {
-        name = "Endless";
+        name = "Know My Legend";
         sound[] = {"\music\Halo Infinite\Know My Legend.ogg",1,1};
         duration = 136;
         musicClass = "Infinite";
@@ -352,7 +352,7 @@ class CfgMusic
 
     class paleHorse
     {
-        name = "Halo - On a Pale Horse";
+        name = "On a Pale Horse";
         sound[] = {"\music\halo ce\Halo - On a Pale Horse.ogg",1,1};
         duration = 95;
         musicClass = "HaloCE";
@@ -360,7 +360,7 @@ class CfgMusic
 
     class impend
     {
-        name = "Halo 2 - Impend";
+        name = "Impend";
         sound[] = {"\music\halo 2\Halo 2 - Impend.ogg",1,1};
         duration = 141;
         musicClass = "Halo2";
@@ -416,7 +416,7 @@ class CfgMusic
 
     class madrigal
     {
-        name = "The siege of Madrigal";
+        name = "The Siege of Madrigal";
         sound[] = {"\music\halo other\The siege of Madrigal.ogg",1,1};
         duration = 64;
         musicClass = "HaloOther";
